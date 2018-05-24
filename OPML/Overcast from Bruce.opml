@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Overcast Podcast Subscriptions</title>
+  </head>
+<body>
+  <outline type="rss" text="Doug Loves Movies" title="Doug Loves Movies" xmlUrl="http://feeds.feedburner.com/DougLovesMovies" htmlUrl="https://art19.com/shows/dlm"/>
+  <outline type="rss" text="StartUp Podcast" title="StartUp Podcast" xmlUrl="http://feeds.hearstartup.com/hearstartup" htmlUrl="http://gimletmedia.com/"/>
+  <outline type="rss" text="That Moment" title="That Moment" xmlUrl="https://rss.simplecast.com/podcasts/3207/rss" htmlUrl="https://builttoadapt.io/that-moment/"/>
+  <outline type="rss" text="30 For 30 Podcasts" title="30 For 30 Podcasts" xmlUrl="http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=19472136" htmlUrl="http://www.espn.com/espnradio/podcast/index"/>
+  <outline type="rss" text="The Indicator from Planet Money" title="The Indicator from Planet Money" xmlUrl="https://www.npr.org/rss/podcast.php?id=510325" htmlUrl="https://www.npr.org/sections/money/567724614/the-indicator"/>
+  <outline type="rss" text="Tell Me Something I Don't Know" title="Tell Me Something I Don't Know" xmlUrl="https://rss.art19.com/tell-me-something-i-don-t-know" htmlUrl="http://www.tmsidk.com/"/>
+  <outline type="rss" text="We Hate Movies" title="We Hate Movies" xmlUrl="https://rss.art19.com/we-hate-movies" htmlUrl="https://headgum.com/we-hate-movies"/>
+  <outline type="rss" text="The Pitch" title="The Pitch" xmlUrl="https://feeds.megaphone.fm/thepitch" htmlUrl="https://www.gimletmedia.com/the-pitch"/>
+  <outline type="rss" text="The Sporkful" title="The Sporkful" xmlUrl="https://rss.art19.com/the-sporkful" htmlUrl="http://www.sporkful.com/"/>
+  <outline type="rss" text="WTF with Marc Maron Podcast" title="WTF with Marc Maron Podcast" xmlUrl="http://wtfpod.libsyn.com/rss" htmlUrl="http://wtfpod.com/"/>
+  <outline type="rss" text="Reply All" title="Reply All" xmlUrl="http://feeds.gimletmedia.com/hearreplyall" htmlUrl="http://gimletmedia.com/shows/reply-all"/>
+  <outline type="rss" text="Rough Translation" title="Rough Translation" xmlUrl="https://www.npr.org/rss/podcast.php?id=510324" htmlUrl=""/>
+  <outline type="rss" text="The Moment with Brian Koppelman" title="The Moment with Brian Koppelman" xmlUrl="http://feeds.feedburner.com/the-moment" htmlUrl="http://www.cadence13.com/"/>
+  <outline type="rss" text="Why We Eat What We Eat" title="Why We Eat What We Eat" xmlUrl="https://feeds.megaphone.fm/whyweeat" htmlUrl="http://whyweeat.show/"/>
+  <outline type="rss" text="Heavyweight" title="Heavyweight" xmlUrl="http://feeds.gimletmedia.com/heavyweightpodcast" htmlUrl="https://gimletmedia.com/show/heavyweight/"/>
+  <outline type="rss" text="Fortune Favors the Bold - The Official Mastercard Podcast" title="Fortune Favors the Bold - The Official Mastercard Podcast" xmlUrl="https://feeds.megaphone.fm/fortunefavorsthebold" htmlUrl="http://www.gimletmedia.com/"/>
+  <outline type="rss" text="Open For Business" title="Open For Business" xmlUrl="http://feeds.gimletmedia.com/hearopenforbusiness" htmlUrl="http://creative.gimletmedia.com/shows/open-for-business/"/><outline type="rss" text="Hidden Brain" title="Hidden Brain" xmlUrl="https://www.npr.org/rss/podcast.php?id=510308" htmlUrl="https://npr.org/series/423302056/hidden-brain"/><outline type="rss" text="Marketplace with Kai Ryssdal" title="Marketplace with Kai Ryssdal" xmlUrl="https://feeds.publicradio.org/public_feeds/marketplace-pm/itunes/rss" htmlUrl="http://www.marketplace.org/shows/marketplace"/>
+  <outline type="rss" text="Planet Money" title="Planet Money" xmlUrl="https://www.npr.org/rss/podcast.php?id=510289" htmlUrl="https://www.npr.org/planetmoney"/>
+  <outline type="rss" text="99% Invisible" title="99% Invisible" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="http://99percentinvisible.org/"/>
+  <outline type="rss" text="How I Built This with Guy Raz" title="How I Built This with Guy Raz" xmlUrl="https://www.npr.org/rss/podcast.php?id=510313" htmlUrl="http://www.npr.org/series/490248027/how-i-built-this"/>
+  <outline type="rss" text="Wait Wait... Don't Tell Me!" title="Wait Wait... Don't Tell Me!" xmlUrl="https://www.npr.org/rss/podcast.php?id=344098539" htmlUrl="http://www.npr.org/programs/wait-wait-dont-tell-me/"/>
+  <outline type="rss" text="Car Talk" title="Car Talk" xmlUrl="https://www.npr.org/rss/podcast.php?id=510208" htmlUrl="http://www.cartalk.com/"/>
+</body>
+</opml>
