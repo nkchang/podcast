@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+	<title>Nick's Podcast Feeds</title>
+	<dateCreated>Mon, 03 Apr 2017 13:15:44 GMT</dateCreated>
+	<dateModified>Thu, 24 May 2018 13:15:44 GMT</dateModified>
+</head>
+<body>
+	<outline text="36氪·硅谷早知道 第二季" title="36氪·硅谷早知道 第二季" type="rss" xmlUrl="http://www.ximalaya.com/album/14233547.xml" htmlUrl="http://www.ximalaya.com" />
+	<outline text="Big Fish in the Middle Kingdom" title="Big Fish in the Middle Kingdom" type="rss" xmlUrl="http://bigfishmiddlekingdom.libsyn.com/rss" htmlUrl="http://bigfishmiddlekingdom.libsyn.com/website" />
+	<outline text="Golden State Warriors" title="Golden State Warriors" type="rss" xmlUrl="http://gsw.backbonebroadcast.com/GSW_mp3/GSW.xml" htmlUrl="http://www.nba.com/warriors/" />
+	<outline text="相對論 udn Debate" title="相對論 udn Debate" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:284562933/sounds.rss" htmlUrl="http://opinion.udn.com" />
+	<outline text="轉角國際・重磅廣播" title="轉角國際・重磅廣播" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:278699637/sounds.rss" htmlUrl="http://global.udn.com/" />
+	<outline text="一天世界" type="rss" xmlUrl="http://ipn.li/yitianshijie/feed" htmlUrl="https://ipn.li/yitianshijie/" />
+	<outline text="壁下观" type="rss" xmlUrl="http://ipn.li/bixiaguan/feed" htmlUrl="https://ipn.li/bixiaguan/" />
+	<outline text="太医来了" type="rss" xmlUrl="http://ipn.li/taiyilaile/feed" htmlUrl="https://ipn.li/taiyilaile/" />
+	<outline text="Anyway.FM × 设计杂谈" type="rss" xmlUrl="http://anyway.fm/rss.xml" htmlUrl="http://Anyway.FM" />
+	<outline text="友的聊播客" type="rss" xmlUrl="http://ydlbk.com/?feed=podcast" htmlUrl="http://ydlbk.com" />
+	<outline text="字谈字畅" type="rss" xmlUrl="http://www.typeisbeautiful.com/feed/typechat/" htmlUrl="http://www.typeisbeautiful.com/typechat/" />
+	<outline text="味之道" type="rss" xmlUrl="http://ipn.li/weizhidao/feed" htmlUrl="https://ipn.li/weizhidao/" />
+	<outline text="Rebuild" type="rss" xmlUrl="http://feeds.rebuild.fm/rebuildfm" htmlUrl="http://rebuild.fm" />
+	<outline text="博物志" type="rss" xmlUrl="http://ipn.li/bowuzhi/feed" htmlUrl="https://ipn.li/bowuzhi/" />
+	<outline text="比特新声" type="rss" xmlUrl="http://banlan.show/bitvoice.rss" htmlUrl="https://banlan.show/bitvoice" />
+	<outline text="科学脱口秀" type="rss" xmlUrl="http://www.kexuetuokouxiu.com/feed/podcast" htmlUrl="http://www.kexuetuokouxiu.com" />
+	<outline text="星缘星语" type="rss" xmlUrl="http://rss.kaolafm.com/MZ_RSS/rss/1100000046203/album.xml" htmlUrl="http://www.kaolafm.com/" />
+	<outline text="人间指南" type="rss" xmlUrl="http://renjianzhinan.fm/podcast.xml" htmlUrl="http://renjianzhinan.fm/" />
+	<outline text="UX Coffee 设计咖" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/1897/rss" htmlUrl="http://uxcoffee.co" />
+	<outline text="果壳频道" type="rss" xmlUrl="http://www.ximalaya.com/album/4904372.xml" htmlUrl="http://www.ximalaya.com" />
+	<outline text="静说日本" type="rss" xmlUrl="http://www.ximalaya.com/album/3385980.xml" htmlUrl="http://www.ximalaya.com" />
+</body>
+</opml>
