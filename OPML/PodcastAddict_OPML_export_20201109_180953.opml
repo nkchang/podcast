@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>PodcastAddict registration feeds</title>
+    <dateCreated>Nov 9, 2020 6:09:53 PM</dateCreated>
+    <dateModified>Nov 9, 2020 6:09:53 PM</dateModified>
+  </head>
+  <body>
+    <outline text="Armchair Expert with Dax Shepard" type="rss" xmlUrl="https://feeds.simplecast.com/qf4XXrnI" htmlUrl="https://armchairexpertpod.com" />
+    <outline text="Conan O’Brien Needs A Friend" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/0a686f81-0eeb-455b-98be-ab0d00055d5e/1fab2b0b-a7f0-4d71-bf6d-ab0d00055d6c/podcast.rss" htmlUrl="https://www.earwolf.com/show/conan-obrien/" />
+    <outline text="Dads: The Podcast" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/0c8e2134-86f0-44d3-b376-abd501696624/362ec008-d579-4264-9807-abd50169f197/podcast.rss" htmlUrl="https://omny.fm/shows/dads-the-podcast/playlists/podcast" />
+    <outline text="Decoder Ring" type="rss" xmlUrl="https://feeds.megaphone.fm/decoderring" htmlUrl="http://www.slate.com/decoderring" />
+    <outline text="Heavyweight" type="rss" xmlUrl="https://feeds.megaphone.fm/heavyweight" htmlUrl="https://gimletmedia.com/show/heavyweight/" />
+    <outline text="Inside Conan: An Important Hollywood Podcast" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/e5396d16-bb83-4010-b10d-aac50173aa2a/d6fdfe94-2e9a-40c3-b010-aac50173aa2f/podcast.rss" htmlUrl="https://www.earwolf.com/show/inside-conan-an-important-hollywood-podcast/" />
+    <outline text="Literally! With Rob Lowe" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/cddd051e-ed29-4e8a-afab-ab7b013ad247/e687c7be-25f6-49f8-8508-ab7b013aec83/podcast.rss" htmlUrl="https://omny.fm/shows/literally-with-rob-lowe" />
+    <outline text="Planet Money" type="rss" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl="https://www.npr.org/planetmoney" />
+    <outline text="Reply All" type="rss" xmlUrl="https://feeds.megaphone.fm/replyall" htmlUrl="http://gimletmedia.com/shows/reply-all" />
+    <outline text="Rough Translation" type="rss" xmlUrl="https://feeds.npr.org/510324/podcast.xml" htmlUrl="" />
+    <outline text="SmartLess" type="rss" xmlUrl="https://feeds.simplecast.com/pvzhyDQn" htmlUrl="http://www.smartless.com" />
+    <outline text="Spectacular Failures" type="rss" xmlUrl="https://feeds.publicradio.org/public_feeds/spectacular-failures/itunes/rss.rss" htmlUrl="https://www.spectacularfailures.org/" />
+    <outline text="The Flop House" type="rss" xmlUrl="https://feeds.simplecast.com/EOAFriME" htmlUrl="http://www.flophousepodcast.com" />
+    <outline text="The Pitch" type="rss" xmlUrl="https://feeds.megaphone.fm/thepitch" htmlUrl="https://gimletmedia.com/shows/the-pitch" />
+    <outline text="The Three Questions with Andy Richter" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/46e0326b-5f62-4886-ab99-ab0700113b09/b80fc414-dcbd-4a54-9e83-ab0700113b25/podcast.rss" htmlUrl="https://www.earwolf.com/show/the-three-questions-with-andy-richter/" />
+    <outline text="We Hate Movies" type="rss" xmlUrl="https://rss.art19.com/we-hate-movies" htmlUrl="https://headgum.com/we-hate-movies" />
+    <outline text="WTF with Marc Maron Podcast" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/8a755b22-8f72-4d44-8ff9-ab79013fda25/6b8a5068-9bea-439f-bd4d-ab79013fda2b/podcast.rss" htmlUrl="http://wtfpod.com/" />
+  </body>
+</opml>
